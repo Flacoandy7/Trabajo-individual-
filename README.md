@@ -1,5 +1,3 @@
-[20:10, 9/7/2024] Elvio Lado: CODIGO DE LOS CONSTRUCTORES
-[20:10, 9/7/2024] Elvio Lado: package InterfazGrafica;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableCellRenderer;
