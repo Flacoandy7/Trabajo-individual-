@@ -1,3 +1,4 @@
+Este código define una clase llamada InterfazGrafica en Java que utiliza Swing para crear una interfaz gráfica que permite a los usuarios visualizar datos de constructores de Fórmula 1 por año desde una base de datos PostgreSQL. 
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableCellRenderer;
